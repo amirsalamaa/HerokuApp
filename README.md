@@ -24,4 +24,4 @@ Key Presses: Automates key press actions on pages.
 
 Login: Validates login functionality and input handling.
 
-Waits: Implements implicit and explicit waits to handle dynamic elements.
+Waits: Implements explicit wait to handle dynamic elements.
