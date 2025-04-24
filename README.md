@@ -7,10 +7,6 @@ PageObjects: Contains the page classes for each HerokuApp page.
 
 Tests: Contains test classes for various functionalities like login, file upload, etc.
 
-Utilities: Contains utility classes for configurations, waits, and other helper methods.
-
-Resources: Includes test data and other resources.
-
 Features
 Alert Handling: Tests for alert pop-ups and their interactions.
 
